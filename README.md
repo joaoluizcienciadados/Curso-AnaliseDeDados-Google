@@ -7,7 +7,7 @@ Repositório criado para armazenar trabalhos realizados para o curso.
 ## Cursos:
 
 ### CURSO 1
-Fundamentos: dados, dados, em todos os lugares  
+[Fundamentos: dados, dados, em todos os lugares](https://github.com/joaoluizcienciadados/Curso-AnaliseDeDados-Google/tree/main/Curso-1)  
 19 horas
 
 ### CURSO 2
